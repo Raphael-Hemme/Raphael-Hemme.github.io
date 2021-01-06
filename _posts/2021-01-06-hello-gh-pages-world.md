@@ -1,5 +1,5 @@
 ---
-title: "Hello GitHup Pages World"
+title: "Hello GitHub Pages World"
 categories:
   - Blog
 tags:
