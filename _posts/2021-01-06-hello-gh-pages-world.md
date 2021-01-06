@@ -1,0 +1,25 @@
+---
+title: "Hello GitHup Pages World"
+categories:
+  - Blog
+tags:
+  - Code Highlighting
+  - Hello World
+---
+
+When you are doing the first steps of working on a coding related side project, what else would you dare to say other than: `Hello World`?
+
+```javascript
+// Just testing the code highlighting features in markdown
+let greeting = 'Hello World';
+let imOnIt = true;
+const tired = () => {
+  let semiRandom = Math.floor(Math.random() * 10);
+  semiRandom < 5 ? imOnIt = true : imOnIt = false;
+}
+
+while (imOnIt) {
+  console.log(greeting);
+  tired();
+}
+```
