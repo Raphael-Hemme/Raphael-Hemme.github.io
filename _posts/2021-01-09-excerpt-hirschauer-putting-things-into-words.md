@@ -28,8 +28,10 @@ What follows is an excerpt of some of the key points and some quotes I took out 
 
 ## Excerpt
 
-**Author** Prof. Dr. Stefan Hirschauer  
-**Full title:** Putting things into words. Ethnographic description and the silence of the social. 
+**Author**  
+Prof. Dr. Stefan Hirschauer  
+**Full title:**  
+Putting things into words. Ethnographic description and the silence of the social. 
 
 ### Summary and key points
 Hirschauer's [paper](https://www.theorie.soziologie.uni-mainz.de/files/2019/09/2006_HumStud_Putting-Things-Into-Words.pdf) unfolds its arguments around the initial proposition that ethnography should not be understood as a form of naturalistic documentation of human knowledge which could be primarily studied through verbal expressions (spoken or written words that are frequently elicited and recorded in interview situations) but instead as a way to describe the "'silent' dimension of the social".
@@ -62,9 +64,8 @@ In the last paragraphs, Hirschauer summarizes his arguments and answers two addi
 1. How to control the accuracy or adequacy of ethnographic description compared to technical recordings?
 2. If ethnographic description is not primarily about documenting something exactly, what other values does it offer?
 
-
 ### Quotes
-quotes that I found particularly clear and concise (even though the whole text is very well written and clear in its arguments):
+Quotes that I found particularly clear and concise (even though the whole text is very well written and clear in its arguments):
 
 On the trust in verbal accounts and the false impression of transparency in language: 
 > "In most cases, we trust in the participants’ primary verbalization. In empirical social research, the positive data, the ‘given’ is almost all the time the said: narrations (oral as well as written), pieces of information, conversations, and discourse. In discourse- and conversation analysis, the linguistic forms are at the center of attention (...). Most forms of interviews, however, view language as a transparent medium without qualities, a window through which the informants allow us to get a direct view of their world. Given this rather naive approach, interviews not only skim the participants’ existing verbalizations, they also try to stimulate them by bringing and keeping their ‘informants’ in conversational situations in which they feel accountable for what they say. Interviews are verbalization methods presupposing that people have specific knowledge that can be extracted by means of ‘questioning.’"  
