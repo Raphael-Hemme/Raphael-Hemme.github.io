@@ -2,10 +2,10 @@
 title: "Excerpt - Hirschauer - Putting Things into Words"
 categories:
   - Blog
-  - Cultures of Computing
+  - cultures of computing
 tags:
-  - Ethnography
-  - Praxeography
+  - ethnography
+  - praxeography
 ---
 
 ## Context
@@ -29,26 +29,26 @@ Hirschauer's [paper](https://www.theorie.soziologie.uni-mainz.de/files/2019/09/2
 As part of a general introduction which gives a great overview of the academic debates concerning ethnographic writing and description that constitute the context for Hirschauer's question and argument, the paper dives deeper into "The problem of forgetting: noting and recording" (415-419) and offers an excursus on the question "Can recordings preserve an original" (419-422). I do not focus on those sections of the text, however, and turn to the different forms of "silence" instead. 
 
 Hirschauer differentiates the following aspects in the silent dimension of the social:
-* **The voiceless**
+* The voiceless
   * The incomprehensible: The things we do not understand without contexual translation -> Thick Description (Geertz)
   * The voices suppressed through strong hierarchies -> Voicing of the unheard and suppressed
   * The unmentionable: Things you are morally forbidden or discouraged to say -> Sensitively decide what may remain unspoken or "transferred" in more subtle ways 
-* **Speechlessness**
+* Speechlessness
   * The impressions and sensual experiences we can't put into words that easily (especially under the constraints of their fast unfolding) -> the ethnographic distancing from the situation of their unfolding which is somewhat paradoxically but true "the retreat to writing (in the field)" or in the own "office". Which is a form of socializing the personal experience (427) because experiences "are preformatted through various codes, they occur already structured by all those categories the available languages (i.e., of everyday life, of the field, of the discipline) allow for (semantically and grammatically)" (ibid). 
-* **The indescribable**
+* The indescribable
   * What can not be easily verbalized because it is to complex or has multiple meanings
   * The complexity of a situation can result from the rich array of "channels" an observer perceives it in contrast to the reduced "channels" a recording device like a voice recorder or video camera can capture a situation.
   * The pace of any given event can render attempts impossible to capture it live in written words and keep the temporal order intact. -> If the temporal structure of micro-situations is important, recording devices might help to preserve it. But instead of *just* collecting an array of short recordings the strength of ethnography lies in the ability to describe  long term processes and the contextual embedding of micro situations (in addition to their recording).
   * Side note: "Pre-configuration" of the observer's perception and attention by the very intention of describing a situation (430).
-* **The pre-lingual**
+* The pre-lingual
   * Tacit and embodied knowledge playing out in our routines and habits. Think of touch typing or tying your shoes but also of your gaze or posture while greeting a friend or traversing a group of people etc. (Also see the quote below)
-* **Things taken for granted**
+* Things taken for granted
   * The obvious, common knowledge and the banal that does not need to be spelled out because presumably everybody knows already. This is *obviously* :wink: something that differs between "cultures". 
-* **Muteness**
+* Muteness
   * The "utterances" of (especially self animated) non-human (or non talking) entities that do not at all adhere to any form of human language or "signification". Here, Hirschauer lists among others e.g. fetuses, animals and machines. 
   * Another question related to muteness that Hirschauer poses is "whose terminology should be used for description, when only one side is speaking?" which directs the text to a short excurse on Science Studies and Actor-Network Theory.
 
-  *While I generally wholeheartedly agree, that it is important to also consider non-human entities and their utterances, I do wonder if it is actually correct to classify the signals machines emit to communicate with each other as something that is generally different from human language and signification since all the codes and protocols are a. made by humans, b. relatively easy to translate into human language and and c. actually do signify things that adhere to human language. One exception I can think of, might be signals and codes that completely emerged from artificial neural networks or similar. I don't have a definitive answer on that but I like the way, Hirschauer classified machine signals as different from human language and signification since it made me pause and think. This question will probably stay on my mind for a while. Thanks!*
+While I generally wholeheartedly agree, that it is important to also consider non-human entities and their utterances, I do wonder if it is actually correct to classify the signals machines emit to communicate with each other as something that is generally different from human language and signification since all the codes and protocols are a. made by humans, b. relatively easy to translate into human language and and c. actually do signify things that adhere to human language. One exception I can think of, might be signals and codes that completely emerged from artificial neural networks or similar. I don't have a definitive answer on that but I like the way, Hirschauer classified machine signals as different from human language and signification since it made me pause and think. This question will probably stay on my mind for a while. Thanks!
 
 In the last paragraphs, Hirschauer summarizes his arguments and answers two additional questions that he derives from it:
 1. How to control the accuracy or adequacy of ethnographic description compared to technical recordings?
@@ -56,8 +56,7 @@ In the last paragraphs, Hirschauer summarizes his arguments and answers two addi
 
 
 ### Quotes
-quotes that I found particularly clear and concise (Even though the whole text is very well written and clear in its arguments):
-
+quotes that I found particularly clear and concise (even though the whole text is very well written and clear in its arguments):
 
 > "In most cases, we trust in the participants’ primary verbalization. In empirical social research, the positive data, the ‘given’ is almost all the time the said: narrations (oral as well as written), pieces of information, conversations, and discourse. In discourse- and conversation analysis, the linguistic forms are at the center of attention (...). Most forms of interviews, however, view language as a transparent medium without qualities, a window through which the informants allow us to get a direct view of their world. Given this rather naive approach, interviews not only skim the participants’ existing verbalizations, they also try to stimulate them by bringing and keeping their ‘informants’ in conversational situations in which they feel accountable for what they say. Interviews are verbalization methods presupposing that people have specific knowledge that can be extracted by means of ‘questioning.’"
   <cite>(Hirschauer 2007: 422f.)</cite>
