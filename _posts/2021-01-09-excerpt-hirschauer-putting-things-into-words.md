@@ -10,14 +10,14 @@ tags:
 ---
 
 ## Context
-I'm currently preparing a course on "Ethnographies of Computing Environments" at Ruhr University Bochum. As part of that, I need to introduce students to the general concepts of ethnography which I usually really enjoy.
-But I have not been entirely happy with the reading I assigned for that general intro to ethnography because even though I think it is a valid introductory text, I think it approaches "culture" too much through language and the taxonomic ordering of our everyday interactions. In that, the text is strongly influenced by cognitive anthropology / ethnoscience while I would like to introduce students also to a more practice oriented way of doing (or at least understanding) ethnography (-> praxeogrphy / prxiography).
+I'm currently preparing a course on "Ethnographies of Computing Environments" at Ruhr University Bochum. As part of that, I need to introduce students to the general concepts of ethnography. I usually really enjoy that part.  
+But I have not been entirely happy with the reading I assigned for that general intro to ethnography because even though I think it is a valid introductory text, I think it approaches "culture" too much through language and the taxonomic ordering of our everyday interactions. In that, the text is strongly influenced by cognitive anthropology / ethnoscience while I would like to introduce students also to a more practice oriented way of doing (or at least understanding) ethnography (-> praxeogrphy / praxiography).
 
-To rephrase the old academic debate: Culture is not just what stories people tell about their worlds or how they categorize and perceive it, but at least as much about what they do and how they do it. And going one step further, ethnography is not even just observing what **people** do but also noticing what all the **non-human actors** (from animals to architecture and from fungi to transmission protocols) do and and how they participate in the production of actual social formations.
+To rephrase the old academic debate: Culture is not just what stories people tell about their worlds or how they categorize and perceive it, but at least as much about what they do and how they do it. And going one step further, ethnography is not even just observing what **people** do but also noting what all the **non-human actors** (from animals to architecture and from fungi to transmission protocols) do and and how they participate in the production of actual social formations.
 
 While I was searching for a good text to counter this language bias and anthropocentrism, I read an excellent [paper](https://www.theorie.soziologie.uni-mainz.de/files/2019/09/2006_HumStud_Putting-Things-Into-Words.pdf) by [Stefan Hirschauer](https://www.grc.uni-mainz.de/prof-stefan-hirschauer/) who argues that ethnography's "referential problem" is to verbally articulate that which is not expressed in words yet - the silent. For the course, I think the whole text is to dense, but I think that reading a few key passages together and maybe staging a debate after that could be a good way to give a richer impression of what ethnography might be.
 
-What follows is an excerpt of some of the key points and some quotes I took out of it but it is by no means a full summary. If you are interested in the arguments laied out by Hirschauer, I would encourage you to read the whole paper!
+What follows is an excerpt of some of the key points and some quotes I took out of it but it is by no means a full summary. If you are interested in the arguments laid out by Hirschauer, I would encourage you to read the whole paper!
 
 ## Excerpt
 
@@ -27,7 +27,7 @@ What follows is an excerpt of some of the key points and some quotes I took out 
 ### Summary and key points
 Hirschauer's [paper](https://www.theorie.soziologie.uni-mainz.de/files/2019/09/2006_HumStud_Putting-Things-Into-Words.pdf) unfolds its arguments around the initial proposition that ethnography should not be understood as a form of naturalistic documentation of human knowledge which could be primarily studied through verbal expressions (spoken or written words that are frequently elicited and recorded in interview situations) but instead as a way to describe the "'silent' dimension of the social".
 
-As part of a general introduction which gives a great overview of the academic debates concerning ethnographic writing and description that constitute the context for Hirschauer's question and argument, the paper dives deeper into "The problem of forgetting: noting and recording" (415-419) and offers an excursus on the question "Can recordings preserve an original" (419-422). I do not focus on those sections of the text, however, and turn to the different forms of "silence" instead. 
+As part of a general introduction which gives a great overview of the academic debates concerning ethnographic writing and description that constitute the context for Hirschauer's question and argument, the paper dives deeper into "The problem of forgetting: noting and recording" (Hirschauer 2007: 415-419) and offers a subchapter on the question whether "recordings [can] preserve an original" (419-422). I won't go into those sections of the text, however, and focus on the different forms of "silence" instead. 
 
 Hirschauer differentiates the following aspects in the silent dimension of the social:
 * The voiceless
