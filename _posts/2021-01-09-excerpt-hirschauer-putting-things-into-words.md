@@ -7,6 +7,7 @@ tags:
   - Ethnography
   - Praxeography
 ---
+
 ## Context
 I'm currently preparing a course on "Ethnographies of Computing Environments" at Ruhr University Bochum. As part of that, I need to introduce students to the general concepts of ethnography which I usually really enjoy.
 But I have not been entirely happy with the reading I assigned for that general intro to ethnography because even though I think it is a valid introductory text, I think it approaches "culture" too much through language and the taxonomic ordering of our everyday interactions. In that, the text is strongly influenced by cognitive anthropology / ethnoscience while I would like to introduce students also to a more practice oriented way of doing (or at least understanding) ethnography (-> praxeogrphy / prxiography).
@@ -19,6 +20,7 @@ What follows is an excerpt of some of the key points and some quotes I took out 
 
 ## Excerpt
 
+**Author** Prof. Dr. Stefan Hirschauer
 **Full title:** Putting things into words. Ethnographic description and the silence of the social. 
 
 ### Summary and key points
@@ -41,12 +43,12 @@ Hirschauer differentiates the following aspects in the silent dimension of the s
 * **The pre-lingual**
   * Tacit and embodied knowledge playing out in our routines and habits. Think of touch typing or tying your shoes but also of your gaze or posture while greeting a friend or traversing a group of people etc. (Also see the quote below)
 * **Things taken for granted**
-  * The obvious, common knowledge and the banal that does not need to be spelled out because presumably everybody knows already. This is *obviously* :wink: (for social scientists and the like) something that differs between "cultures". 
+  * The obvious, common knowledge and the banal that does not need to be spelled out because presumably everybody knows already. This is *obviously* :wink: something that differs between "cultures". 
 * **Muteness**
   * The "utterances" of (especially self animated) non-human (or non talking) entities that do not at all adhere to any form of human language or "signification". Here, Hirschauer lists among others e.g. fetuses, animals and machines. 
   * Another question related to muteness that Hirschauer poses is "whose terminology should be used for description, when only one side is speaking?" which directs the text to a short excurse on Science Studies and Actor-Network Theory.
 
-  -> *While I generally wholeheartedly agree, that it is important to also consider non-human entities and their utterances, I do wonder if it is actually correct to classify the signals machines emit to communicate with each other as something that is generally different from human language and signification since all the codes and protocols are a. made by humans, b. relatively easy to translate into human language and and c. actually do signify things that adhere to human language. One exception I can think of, might be signals and codes that completely emerged from artificial neural networks or similar. I don't have a definitive answer on that but I like the way, Hirschauer classified machine signals as different from human language and signification since it made me pause and think. This question will probably stay on my mind for a while. Thanks!*
+  *While I generally wholeheartedly agree, that it is important to also consider non-human entities and their utterances, I do wonder if it is actually correct to classify the signals machines emit to communicate with each other as something that is generally different from human language and signification since all the codes and protocols are a. made by humans, b. relatively easy to translate into human language and and c. actually do signify things that adhere to human language. One exception I can think of, might be signals and codes that completely emerged from artificial neural networks or similar. I don't have a definitive answer on that but I like the way, Hirschauer classified machine signals as different from human language and signification since it made me pause and think. This question will probably stay on my mind for a while. Thanks!*
 
 In the last paragraphs, Hirschauer summarizes his arguments and answers two additional questions that he derives from it:
 1. How to control the accuracy or adequacy of ethnographic description compared to technical recordings?
@@ -58,19 +60,21 @@ quotes that I found particularly clear and concise (Even though the whole text i
 
 
 > "In most cases, we trust in the participants’ primary verbalization. In empirical social research, the positive data, the ‘given’ is almost all the time the said: narrations (oral as well as written), pieces of information, conversations, and discourse. In discourse- and conversation analysis, the linguistic forms are at the center of attention (...). Most forms of interviews, however, view language as a transparent medium without qualities, a window through which the informants allow us to get a direct view of their world. Given this rather naive approach, interviews not only skim the participants’ existing verbalizations, they also try to stimulate them by bringing and keeping their ‘informants’ in conversational situations in which they feel accountable for what they say. Interviews are verbalization methods presupposing that people have specific knowledge that can be extracted by means of ‘questioning.’"
-> (Hirschauer 2007: 422f.)
+  <cite>(Hirschauer 2007: 422f.)</cite>
 
 > "Another kind of resistance to verbalization has to do with the pre-lingual, that is, with all those layers of implicit, embodied knowledge which the participants own without being able to simply verbalize it themselves – tacit knowledge, as it is so poignantly called. It is here that the limitations of interviews prove to be most unfortunate. Of the many areas of local distribution of knowledge, they only survey knowledge ‘in the head,’ but not knowledge in the hands or the situated knowledge stored in the spatial organization of material practices and objects.[^fn1] This kind of knowledge resists language not for moral reasons (like the unmentionable) but because its verbalization would be eminently unpractical: It would hinder the execution of everyday activities. Participants have a command of the grammar of their activities, but they cannot and need not explicate them. We are dealing here with intrinsically non-verbal knowledge, which poses considerable (and in part insurmountable)[^fn1] resistance to verbalization to the sociological observer. Ethnographic attempts to pull pre-lingual knowledge into the realm of language are based mainly on two operations. The first is marked by the concept of ‘participation,’ i.e., practical membership in events. In regard to the pre-lingual, the rationality of participation lies in immersing oneself in everyday practices but then (instead of bothering other people with questions about it) doing something very alien to practice: verbalizing tacit knowledge. Being ‘on site’ in a novice role opens up access to those occasions in which ‘explanations’ are also given to other learners (for example, to children or apprentices). A procedure is explained to them by demonstrating it on an object, accompanied by a few words. Furthermore, the local observer can attempt to acquire certain skills, in order to gain participation competence. Garfinkel’s invitation to ‘become the phenomenon!’ was an instruction to plunge into the deep layers of practical knowledge and go into symbiosis with the object.[^fn1] The sociological participant’s knowledge acquired in this way, however, would become immediately habitual if it were not simultaneously documented in writing."
-> (Hirschauer 2007: 431f.)
+  <cite>(Hirschauer 2007: 431f.)</cite>
 
 > "Another kind of resistance to verbalization related to pre-lingual knowledge has its source in that which ‘goes without saying.’ Things taken for granted are ‘not worth mentioning.’ (...)
 > The most powerful resource for dealing with things taken for granted and with the obvious ethnographically, is the unfamiliarity of the observer. (...) In principle, verbalizations can be released more freely when at a distance from the culturally obvious. Accordingly, ethnographic textbooks recommend immediately explicating first impressions and exploiting them to a maximum, before the basic features of the field become normalized in one’s perception, and thus disappear again into one’s own pre-lingual tacit knowledge. Ethnographers’ initial position as strangers in the field, which enables certain insights, can be methodically renewed during their stay and further used as a resource by varying the normal distance to the object, thus actively ‘alienating it’ (Amann & Hirschauer, 1997). (...) To use an optical metaphor, descriptions – just like transcripts – should offer microscopic ‘close-ups.’ If descriptions’ rendering of details were merely ‘realistic’ they would not exceed the participants’ knowledge. Only a ‘hyperrealistic’ change in scale enables us to see the all too familiar in a new light. Thus, description and transcription are not copies that can be looked at again and again (substituting the original), but rather different lenses one needs to ‘look through’ in order to gain new ways of seeing.[^fn1]"
-> (Hirschauer 2007: 431f.)
+  <cite>(Hirschauer 2007: 432f.)</cite>
 
-### Reference:
+### References
 
-Hirschauer, Stefan
-
-2007  Putting things into words. Ethnographic description and the silence of the social. Human Studies 29(6): 413-41. [Digitally available [here](https://www.theorie.soziologie.uni-mainz.de/files/2019/09/2006_HumStud_Putting-Things-Into-Words.pdf), Last accessed: 2021.01.09]
+<sub>
+**Hirschauer, Stefan**  
+**2007**  Putting things into words. Ethnographic description and the silence of the social. *Human Studies* 29(6): 413-41.  
+[Digitally available [here](https://www.theorie.soziologie.uni-mainz.de/files/2019/09/2006_HumStud_Putting-Things-Into-Words.pdf), Last accessed: 2021.01.09]
+<sub>
 
 [^fn1]: I removed a footnote here; R.H.

@@ -113,8 +113,10 @@ body {
 
   p,
   li,
-  dl {
+  dl,
+  blockquote {
     font-size: 0.85em;
+    text-align: justify;
   }
 
   /* paragraph indents */
