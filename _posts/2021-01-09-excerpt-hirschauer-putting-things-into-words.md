@@ -7,6 +7,13 @@ categories:
 tags:
   - ethnography
   - praxeography
+  - the silent
+  - interviews
+  - language
+  - anthropocentrism
+  - translation
+  - HCI
+
 ---
 
 ## Context
