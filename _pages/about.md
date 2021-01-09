@@ -24,7 +24,7 @@ Given some time, I hope that associations and aggregations emerge from the many 
 I hope to encounter a lot of interesting things, meet new people on the way and get to know them better. So, in a way, it is the usual working mode of anthropology - of being a "professional stranger" (Agar 1980). 
 *Although, I would emphasize the relative strangeness over the professionalism for this project.* :slightly_smiling_face:	
 
-This kind of learning also requires making mistakes. So please let me know if something is wrong in a code snippet or an explanation or if something could simply be improved! But please be patient and kind.
+This kind of learning also requires making mistakes. So please let me know if something is wrong in a code snippet, a description, or a summarized argument or simply if something could be improved! But please be patient and kind.
 
 ### Order!
 
