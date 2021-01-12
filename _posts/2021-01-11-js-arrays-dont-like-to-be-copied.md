@@ -6,11 +6,12 @@ categories:
 tags:
   - javascript
   - arrays
-  - reassignment
+  - variable reassignment
+  - debugging
 
 ---
 
-Yesterday, I was reminded that arrays in JS really do not like to be copied but love to take all the names they can get for themselves.
+Yesterday, I was reminded that arrays in JavaScript really don't like to be copied but love to take all the names they can get for themselves.
 
 I was going through a few vanilla JavaScript projects on codecademy to refresh and consolidate the basics and I got stuck for quite a long time on an issue I had where the program gave me as its output completely new arrays with values nowhere present in the "raw data". And the program did that even though I was expecting it just to push those arrays that pass a test into a new array.
 
@@ -46,7 +47,7 @@ const validateCred = (creditCard) => {
 }
 ```
 
-And it worked well when I tested it. For those numbers that were listed as valid, my function returned `true` and for those that were invalid, it returned `false`. So I went on to write the next function, which should be a nested input array (all those arrays like the two above grouped together in another array like so: `[valid1, valid2, ... , invalid5, ...]`) as an argument and return a new array that only contains the invalid card numbers - again as a nested array. 
+And it worked well when I tested it. For those numbers that were listed as valid, my function returned `true` and for those that were invalid, it returned `false`. So I went on to write the next function, which should accept a nested input array (all those arrays like the two above grouped together in another array like so: `[valid1, valid2, ... , invalid5, ...]`) as an argument and should return a new array that only contains the invalid card numbers - again as a nested array. 
 
 ```javascript
 // This function returns an array with all the invalid numbers from an input array.
