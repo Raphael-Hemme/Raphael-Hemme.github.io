@@ -2,7 +2,7 @@
 title: "Hello GitHub Pages World"
 categories:
   - Blog
-  - Coding Practice
+  - coding practice
 tags:
   - Code Highlighting
   - Hello World
