@@ -1,18 +1,18 @@
 ---
 title: "Situated Watching: The Virtual Vortex of Ethnography Videos"
 categories:
-- Blog
-- cultures of computing
+  - Blog
+  - cultures of computing
 tags:
-- ethnography
-- teaching
-- talks
-- videos
-- HCI
-- situated action
-- cognitive science
-- AI
-- Interaction design
+  - ethnography
+  - teaching
+  - talks
+  - videos
+  - HCI
+  - situated action
+  - cognitive science
+  - AI
+  - Interaction design
 
 ---
 
