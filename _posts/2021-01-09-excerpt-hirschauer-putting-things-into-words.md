@@ -29,7 +29,7 @@ What follows is an excerpt of some of the key points and some quotes I took out 
 ## Excerpt
 
 **Author**  
-Prof. Dr. Stefan Hirschauer  
+Stefan Hirschauer  
 **Full title:**  
 Putting things into words. Ethnographic description and the silence of the social. 
 
@@ -76,7 +76,7 @@ On the tacit knowledge and the strength of participation:
 <cite>(Hirschauer 2007: 431f.)</cite>
 
 The advantage of initial strangeness in ethnographic research and the need of methodological alienation:
-> The most powerful resource for dealing with things taken for granted and with the obvious ethnographically, is the unfamiliarity of the observer. (...) In principle, verbalizations can be released more freely when at a distance from the culturally obvious. Accordingly, ethnographic textbooks recommend immediately explicating first impressions and exploiting them to a maximum, before the basic features of the field become normalized in one’s perception, and thus disappear again into one’s own pre-lingual tacit knowledge. Ethnographers’ initial position as strangers in the field, which enables certain insights, can be methodically renewed during their stay and further used as a resource by varying the normal distance to the object, thus actively ‘alienating it’ (Amann & Hirschauer, 1997). (...) To use an optical metaphor, descriptions – just like transcripts – should offer microscopic ‘close-ups.’ If descriptions’ rendering of details were merely ‘realistic’ they would not exceed the participants’ knowledge. Only a ‘hyperrealistic’ change in scale enables us to see the all too familiar in a new light. Thus, description and transcription are not copies that can be looked at again and again (substituting the original), but rather different lenses one needs to ‘look through’ in order to gain new ways of seeing.[^fn1]"  
+> "The most powerful resource for dealing with things taken for granted and with the obvious ethnographically, is the unfamiliarity of the observer. (...) In principle, verbalizations can be released more freely when at a distance from the culturally obvious. Accordingly, ethnographic textbooks recommend immediately explicating first impressions and exploiting them to a maximum, before the basic features of the field become normalized in one’s perception, and thus disappear again into one’s own pre-lingual tacit knowledge. Ethnographers’ initial position as strangers in the field, which enables certain insights, can be methodically renewed during their stay and further used as a resource by varying the normal distance to the object, thus actively ‘alienating it’ (Amann & Hirschauer, 1997). (...) To use an optical metaphor, descriptions – just like transcripts – should offer microscopic ‘close-ups.’ If descriptions’ rendering of details were merely ‘realistic’ they would not exceed the participants’ knowledge. Only a ‘hyperrealistic’ change in scale enables us to see the all too familiar in a new light. Thus, description and transcription are not copies that can be looked at again and again (substituting the original), but rather different lenses one needs to ‘look through’ in order to gain new ways of seeing.[^fn1]"  
 <cite>(Hirschauer 2007: 433)</cite>
 
 ### References
