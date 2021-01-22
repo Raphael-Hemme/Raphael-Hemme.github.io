@@ -95,5 +95,5 @@ Perhaps this is not surprising, given the invisible and boring nature of many of
 **2002**  Infrastructure and Ethnographic Practice: Working on the fringes. *Scandinavian Journal of Information Systems* 14(2): 107-122.
 <sub>
 
-[^fn1]: I removed a footnote here; R.H.
+[^fn1]: Removed a footnote here; R.H.
 [^fn1]: Reference removed; R.H.
