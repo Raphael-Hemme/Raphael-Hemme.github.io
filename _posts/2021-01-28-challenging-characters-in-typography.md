@@ -32,17 +32,17 @@ There I was, sitting at my desk with this uneasy company of letters. How to conc
 
 At first, I thought: "Okay, let's make them just really bold and set them in italics. But that did not look particularly interesting or memorable. 
 
-![bold letters](assets/images/post-images/20210128/post-20210128-img-01.jpeg)
+![bold letters](/assets/images/post-images/20210128/post-20210128-img-01.jpeg)
 
 Next, I decided to try "forcing" the *H* into the same regime of experimental proportions, and variable angles that evolved in the iterative work with the *R*. 
 
-![Series A and B](assets/images/post-images/20210128/post-20210128-img-02.jpeg)
+![Series A and B](/assets/images/post-images/20210128/post-20210128-img-02.jpeg)
 
 As you can see in the series of sketches labeled with an circled "A", the *H* does not respond well to being subjected to an asymmetrical change in the tilt angle of just one stem. While I think the small combination at the bottom with just the lower parts of the stems being (partly) tilted while the upper parts are straight, does almost work, It disrespects the fundamental shape of an *H* too much in my view. It almost reminds me of a *k* in some way. So that did not work either.
 
 In the small sectioned off part of the page above that is labeled with a circled "B", I gave in to the prosaic character of the character *H* and made it embrace or almost include the *R*. I think from a symbolic point of view this is quite adequate since the *H* stands in for my family name and I am part of that family, represented by the contained *R*. But then again, we don't usually give our initials backwards but are used to reading from left to right and top to bottom (with the Latin alphabet). Not a perfect solution either then...
 
-![Series B and C](assets/images/post-images/20210128/post-20210128-img-03.jpeg)
+![Series B and C](/assets/images/post-images/20210128/post-20210128-img-03.jpeg)
 
 I wanted to find a solution to this puzzle and got back to the line of thought I started earlier with the series of sketches labeled with a circled "A", worked a bit with a buckled crossbar but still had a strange feeling about the anatomy of the *H*.
 
