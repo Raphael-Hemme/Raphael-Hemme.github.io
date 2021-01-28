@@ -4,8 +4,8 @@ categories:
   - Blog
   - coding practice
 tags:
-  - Code Highlighting
-  - Hello World
+  - code highlighting
+  - hello world
 ---
 
 When you are doing the first steps of working on a coding related side project, what else would you dare to say other than: `Hello World`?
